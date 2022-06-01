@@ -1,0 +1,14 @@
+{
+  "name": "download_google_presentation_thumbnails",
+  "version": "1.0.0",
+  "description": "",
+  "main": "get_slide_thumbnails.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "googleapis": "^100.0.0"
+  }
+}
