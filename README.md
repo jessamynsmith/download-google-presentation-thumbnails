@@ -1,4 +1,4 @@
-# download-google-presentation-thumbnails
+# google-presentation-thumbnails-node
 
 ### Development
 
